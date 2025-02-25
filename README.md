@@ -126,5 +126,5 @@ linera query-balance "$CHAIN2:$ACCOUNT2"
 # TODO(#1713): The syntax `User:$OWNER` for user accounts will change in the future.
 ```
 
-More complex examples may be found in our [developer manual](https://linera.dev) as well
+More complex examples you can be find in our [developer manual](https://linera.dev) as well
 as the [example applications](./examples) in this repository.
